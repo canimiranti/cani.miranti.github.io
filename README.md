@@ -6,7 +6,7 @@
 So Simple is a simple [Jekyll theme](https://jekyllrb.com/docs/themes/) for your words and pictures. Built to provide:
 
 * A variety of layouts with clean and readable typography.
-* [Microformats](http://microformats.org/wiki/microformats2) markup to make post content machine-readable and discoverable.
+* [Microformats](http://microformats.org/wiki/microformats2) markup to make post content machine-readable and discoverable.  
 * Disqus Comments and Google Analytics support.
 * SEO best practices via [Jekyll SEO Tag][jekyll-seo-tag].
 * Options to customize the theme and make it your own.
